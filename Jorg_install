@@ -1,0 +1,8 @@
+Steps to install the tool jorg sucessfully(things that worked for me).
+
+Prerequisites : Conda in the system's path
+
+1. Installation of Mirabait on linux
+2. configuration of the tool Mirabait
+
+3. Installation of BWA and seqt
