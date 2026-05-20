@@ -1,9 +1,6 @@
 
 ---
 
-## `patescibacteria_study/README.md`
-
-```markdown
 # Patescibacteria Study
 
 This folder contains the main biological case study of the project, focused on **Patescibacteria MAGs** from marine and terrestrial habitats.
